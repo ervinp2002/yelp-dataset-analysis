@@ -4,7 +4,8 @@ An investigation into factors that contribute to high star ratings in the Yelp D
 
 ## Research Questions
 
-1. What are the key factors that contribute to high star ratings in the Yelp dataset?
+1. What are the key factors that contribute to high star ratings for restaurants in the Yelp dataset?
 2. How do geographic locations influence star ratings?
 3. Can we predict star ratings based on various features using machine learning models?
 4. What are the geographic hotspots for high star ratings?
+
