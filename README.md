@@ -1,4 +1,4 @@
-# Investigating Factors Contributing to High Star Ratings on Yelp
+# Investigating Factors Contributing to High Ratings on Yelp
 
 Author: Ervin Pangilinan
 
@@ -50,7 +50,7 @@ other third party libraries that are used include:
 
 A *requirements.txt* file is included to install all necessary third-party
 libraries if you are not using conda for your Python environment. However,
-if you are using conda, the first cell in the notebook can be executed
+if you are using conda, the second cell in the notebook can be executed
 to install these libraries to your conda environment without the use of
 the *requirements.txt* file.
 
